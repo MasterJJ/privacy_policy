@@ -1,0 +1,84 @@
+PrivacyPolicy
+
+In accordance with the Personal Information Protection Act, the Jeamin Cha app has the following processing policies in order to protect users' personal information and interests.
+
+If we revise our personal information processing policy, we will notify you through the application screen and website notification.
+
+
+1. Purpose of processing personal information: 
+
+This application is an independent execution application that does not collect personal information and operates a separate server and does not collect information.
+
+Our company is able to collect information that is not directly related to a particular individual and that is not personally identifiable, such as functions to use iOS service functions and advertising services for rewards.
+
+We do not store or use personal information separately.
+
+
+2. Current status of personal information files
+
+We do not use or store separate personal information files.
+
+We do not store cookies.
+
+However, the information used by the store service and the information used by the advertising service will be used through the SDK of the service. This information is not stored in our company.
+
+If you have any questions, you must contact the service (Apple and each advertising media) directly.
+
+
+3. Processing and retention period of personal information
+
+We do not store or retain personal information directly. 
+
+All of our applications are used indirectly through the SDK of the media service (Apple, Advertising Media).
+
+Therefore, we do not have the content or retention period to process the user's personal information.
+
+
+4. Items concerning the provision of personal information to third parties
+
+We do not provide personal information to third parties.
+
+
+5. Consignment of personal information processing.
+
+We do not entrust personal information.
+
+
+6. Rights and Obligations of the Information Subject and Method of Exercise thereof
+
+Users can exercise their rights as the subject of personal information.
+
+1. Request to view personal information
+
+(ii) Request for correction if there are any errors, etc.
+
+3. Request for deletion
+
+4. Request suspension of processing
+
+We do not store or entrust personal information.
+
+
+7. Disposal of Personal Information
+
+Our application is an independent execution application and does not use a separate server.
+
+It also does not store personal information, so it will not be destroyed.
+
+However, all data can be destroyed by "deletion" of the application if the user wishes.
+
+
+
+8. Information on using non-Dell modules
+
+Other non-Dell service modules include:
+(not include)
+Company: empty
+Purpose of use:  empty
+Item: empty
+
+
+
+9. Preparation of a person in charge of personal information protection
+
+- Email: ronchaos@gmail.com
